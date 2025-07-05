@@ -24,7 +24,7 @@ This project presents an interactive Power BI dashboard built to analyze Walmart
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Walmart dashboard.png)
+![Dashboard Preview](Walmart_dashboard.png)
 
 ## 📂 Files Included
 
